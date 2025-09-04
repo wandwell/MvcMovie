@@ -360,3 +360,4 @@ C:\Users\saria\OneDrive\Documents\Pathways\.NET\MvcMovie\obj\Debug\net9.0\MvcMov
 C:\Users\saria\OneDrive\Documents\Pathways\.NET\MvcMovie\obj\Debug\net9.0\MvcMovie.csproj.Up2Date
 C:\Users\saria\OneDrive\Documents\Pathways\.NET\MvcMovie\obj\Debug\net9.0\compressed\3w0sbgp9k0-4zfrr3tieu.gz
 C:\Users\saria\OneDrive\Documents\Pathways\.NET\MvcMovie\obj\Debug\net9.0\compressed\lqewxh1gkt-4zfrr3tieu.gz
+c:\Users\saria\OneDrive\Documents\Pathways\.NET\MvcMovie\obj\Debug\net9.0\MvcMovie.sourcelink.json

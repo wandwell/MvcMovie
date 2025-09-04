@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\saria\\OneDrive\\Documents\\Pathways\\.NET\\MvcMovie\\MvcMovie.csproj": {}
+    "c:\\Users\\saria\\OneDrive\\Documents\\Pathways\\.NET\\MvcMovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\saria\\OneDrive\\Documents\\Pathways\\.NET\\MvcMovie\\MvcMovie.csproj": {
+    "c:\\Users\\saria\\OneDrive\\Documents\\Pathways\\.NET\\MvcMovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\saria\\OneDrive\\Documents\\Pathways\\.NET\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "c:\\Users\\saria\\OneDrive\\Documents\\Pathways\\.NET\\MvcMovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\saria\\OneDrive\\Documents\\Pathways\\.NET\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "c:\\Users\\saria\\OneDrive\\Documents\\Pathways\\.NET\\MvcMovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\saria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\saria\\OneDrive\\Documents\\Pathways\\.NET\\MvcMovie\\obj\\",
+        "outputPath": "c:\\Users\\saria\\OneDrive\\Documents\\Pathways\\.NET\\MvcMovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\saria\\AppData\\Roaming\\NuGet\\NuGet.Config"

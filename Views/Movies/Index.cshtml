@@ -11,18 +11,18 @@
 </p>
 <form asp-controller="Movies" asp-action="Index" method="get">
     <p>
-        <label style="padding: .5rem">Genre: </label>
-        <select asp-for="MovieGenre" asp-items="Model.Genres" style="padding: .5rem">
+        <label>Genre: </label>
+        <select asp-for="MovieGenre" asp-items="Model.Genres">
             <option value="">All</option>
         </select>
         
-        <label style="padding: .5rem">Year: </label>
-        <select asp-for="MovieYear" asp-items="Model.Years" style="padding: .5rem">
+        <label>Year: </label>
+        <select asp-for="MovieYear" asp-items="Model.Years">
             <option value="">All</option>
         </select>
 
-        <label style="padding: .5rem">Title: <input type="text" asp-for="SearchString" /></label>
-        <input type="submit" value="Filter" style="padding: .5rem"/>
+        <label>Title: <input type="text" asp-for="SearchString" /></label>
+        <input type="submit" value="Filter"/>
     </p>
 </form>
 
